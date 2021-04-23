@@ -1,0 +1,6 @@
+
+- hosts: tag_Name_MasterNode
+  become: yes
+  remote_user: ec2-user
+  roles:
+          - role: master_kube
