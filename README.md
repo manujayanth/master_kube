@@ -1,3 +1,3 @@
 # master_kube
-To create a Master node over AWS using ansible
+To create a Kubernetes Master node over AWS using ansible
 
