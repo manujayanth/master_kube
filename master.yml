@@ -3,4 +3,4 @@
   become: yes
   remote_user: ec2-user
   roles:
-          - role: master_kube
+          - role: manujayanth.master_kube 
